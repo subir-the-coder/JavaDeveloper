@@ -1,4 +1,4 @@
-# Java Developer Practice 🚀
+# Java Developer Practice
 
 This repository contains my Java practice programs.
 
