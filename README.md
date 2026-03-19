@@ -8,6 +8,8 @@ This repository contains my Java practice programs as I prepare to become a Java
 - Reverse String (without slicing)
 - Reverse String and Palindrome checker
 - Count Vowels in a String and frequency
+- Factorial added
+- Matrix Multiplication added
 
 ## Tech Used
 - Java
