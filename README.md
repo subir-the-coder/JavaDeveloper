@@ -6,7 +6,8 @@ This repository contains my Java practice programs as I prepare to become a Java
 
 ### Phase 1
 - Reverse String (without slicing)
-- Count Vowels in a String
+- Reverse String and Palindrome checker
+- Count Vowels in a String and frequency
 
 ## Tech Used
 - Java
@@ -14,3 +15,6 @@ This repository contains my Java practice programs as I prepare to become a Java
 
 ## Author
 Subir Sutradhar
+
+## Contact
+subirthecoder35@gmail.com
